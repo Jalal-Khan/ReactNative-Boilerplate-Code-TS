@@ -1,0 +1,83 @@
+//navigation strings , key should be capital and value should be same as the screen name in the stack
+export default {
+    /*********auth stack***************/
+    LOGIN: 'Login',
+    SIGNUP: 'Signup',
+    // REGISTER: 'Register',
+    // FORGOT_PASSWORD: 'ForgotPassword',
+    // RESET_Password: 'ResetPassword',
+    // VERIFY_EMAIL: 'VerifyEmail',
+
+    /*********Home stack***************/
+    HOME: 'Home',
+    // MEETING: 'Meeting',
+    // PROFILE: 'Profile',
+    // SETTINGS: 'Settings',
+    // EDIT_PROFILE: 'EditProfile',
+    // CHANGE_PASSWORD: 'ChangePassword',
+    // CHANGE_EMAIL: 'ChangeEmail',
+    // CHANGE_PHONE: 'ChangePhone',
+    // CHANGE_USERNAME: 'ChangeUsername',
+
+    /*********common stack***************/
+    // SPLASH: 'Splash',
+    // WELCOME: 'Welcome',
+    // ONBOARDING: 'Onboarding',
+    // NOTIFICATION: 'Notification',
+    // SEARCH: 'Search',
+    // CHAT: 'Chat',
+    // CHAT_LIST: 'ChatList',
+    // CALL: 'Call',
+    // CALL_LIST: 'CallList',
+    // CONTACT: 'Contact',
+    // CONTACT_LIST: 'ContactList',
+    // GROUP: 'Group',
+    // GROUP_LIST: 'GroupList',
+    // ADD_MEMBER: 'AddMember',
+    // GROUP_INFO: 'GroupInfo',
+    // GROUP_CHAT: 'GroupChat',
+    // GROUP_CALL: 'GroupCall',
+    // GROUP_CALL_LIST: 'GroupCallList',
+    // GROUP_CALL_INFO: 'GroupCallInfo',
+    // GROUP_VIDEO: 'GroupVideo',
+    // GROUP_VIDEO_LIST: 'GroupVideoList',
+    // GROUP_VIDEO_INFO: 'GroupVideoInfo',
+    // GROUP_SETTING: 'GroupSetting',
+    // GROUP_SETTING_INFO: 'GroupSettingInfo',
+    // GROUP_SETTING_EDIT: 'GroupSettingEdit',
+    // GROUP_SETTING_PERMISSION: 'GroupSettingPermission',
+    // GROUP_SETTING_NOTIFICATION: 'GroupSettingNotification',
+    // GROUP_SETTING_MEDIA: 'GroupSettingMedia',
+    // GROUP_SETTING_LINK: 'GroupSettingLink',
+    // GROUP_SETTING_CALL: 'GroupSettingCall',
+    // GROUP_SETTING_VIDEO: 'GroupSettingVideo',
+    // GROUP_SETTING_MEMBER: 'GroupSettingMember',
+
+    /********* Drawer stack***************/
+
+    // DRAWER: 'Drawer',
+    // HOME_DRAWER: 'HomeDrawer',
+    // PROFILE_DRAWER: 'ProfileDrawer',
+    // SETTINGS_DRAWER: 'SettingsDrawer',
+    // EDIT_PROFILE_DRAWER: 'EditProfileDrawer',
+
+    /*********bottom tab stack***************/
+    // BOTTOM_TAB: 'BottomTab',
+    // HOME_BOTTOM_TAB: 'HomeBottomTab',
+    // PROFILE_BOTTOM_TAB: 'ProfileBottomTab',
+    // SETTINGS_BOTTOM_TAB: 'SettingsBottomTab',
+    // EDIT_PROFILE_BOTTOM_TAB: 'EditProfileBottomTab',
+
+    /*********Modal stack***************/
+    // MODAL: 'Modal',
+    // HOME_MODAL: 'HomeModal',
+    // PROFILE_MODAL: 'ProfileModal',
+    // SETTINGS_MODAL: 'SettingsModal',
+    // EDIT_PROFILE_MODAL: 'EditProfileModal',
+    // CHANGE_PASSWORD_MODAL: 'ChangePasswordModal',
+    // CHANGE_EMAIL_MODAL: 'ChangeEmailModal',
+    // CHANGE_PHONE_MODAL: 'ChangePhoneModal',
+    // CHANGE_USERNAME_MODAL: 'ChangeUsernameModal',
+    // NOTIFICATION_MODAL: 'NotificationModal',
+    // SEARCH_MODAL: 'SearchModal',
+};
